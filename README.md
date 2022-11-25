@@ -1,5 +1,5 @@
-# VikiMedia Official WebPage 
+# Lavender Seedr Official WebPage 
 
-https://VikiMedia.netlify.app/
+https://lavender-seedr.netlify.app/
 
 Do follow me on GitHub 🌟
